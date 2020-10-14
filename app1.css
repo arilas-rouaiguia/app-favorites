@@ -1,0 +1,26 @@
+body{
+font-family: "UniSansThin",UniSansThin;
+
+background-image: url("discord_logo_wordmark_2400.jpg");
+background-attachment:fixed;
+background-color:#7489D8;
+background-repeat:no-repeat;
+background-position:50% 10%;	
+}
+
+@font-face {
+	font-family: "UniSansThin";
+	src: url('UniSansThin.otf');
+	font-weight: bold
+}
+
+P { text-align: center }
+H2 { text-align: center }
+H1 { text-align: center }
+
+.Image {
+margin-left: 538px;
+}
+
+.Liens {
+margin-left: 600px;

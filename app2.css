@@ -1,0 +1,29 @@
+body{
+color:white;
+font-family: "Trajan Pro Regular",Trajan Pro Regular;
+
+background-image: url("thumb-1920-1080106.jpg");
+background-attachment:fixed;
+background-color:black;
+background-repeat:no-repeat;
+background-position:50% 10%;	
+}
+
+@font-face {
+	font-family: "Trajan Pro Regular";
+	src: url('Trajan Pro Regular.ttf');
+	font-weight: bold
+}
+
+P { text-align: center }
+H2 { text-align: center }
+H1 { text-align: center }
+
+.Image1 {
+margin-left: 492px;
+}
+.image2 {
+margin-left: 677px;}
+
+.Liens {
+margin-left: 600px;
